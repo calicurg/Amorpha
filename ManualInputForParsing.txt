@@ -1,0 +1,629 @@
+==== >>>>
+Pharmacol Rep. 2020 Aug;72(4):867-876.
+doi: 10.1007/s43440-019-00034-9. Epub 2019 Dec 20.
+Bisoprolol and linagliptin ameliorated electrical and mechanical isometric myocardial contractions in doxorubicin-induced cardiomyopathy in rats
+Duygun Alt?ntas Aykan  1 , Selma Yaman  2 , Nadire Eser  3 , Tuba Ozcan Metin  4 , Muhammed Seyithanoglu  5 , Ahmet Cagr? Aykan  6 , Akif Hakan Kurt  3 , Yusuf Ergun  3
+Affiliations
+
+PMID: 32048248 DOI: 10.1007/s43440-019-00034-9 
+
+Abstract
+
+Background: Doxorubicin is an anthracycline chemotherapeutic agent that causes cardiomyopathy as a side effect. Here, we aimed to investigate the effects of linagliptin and bisoprolol on the management of doxorubicin-induced cardiomyopathy in rats.
+
+Methods: Wistar rats were divided into six groups (n = 8). Group I received saline for 4 weeks; group II received 1 mg/kg bisoprolol for 8 weeks; group III received 3 mg/kg linagliptin for 8 weeks; group IV received 1.25 mg/kg doxorubicin for 4 weeks for the induction of cardiomyopathy; group V received 1.25 mg/kg doxorubicin for 4 weeks plus 1 mg/kg bisoprolol for 8 weeks; and group VI received 1.25 mg/kg doxorubicin for 4 weeks plus 3 mg/kg linagliptin for 8 weeks. Electrocardiography and isometric mechanography were conducted to measure ventricular contractile responses. Myocardial tissue and serum samples were analyzed for oxidative and cardiotoxic markers by ELISA.
+
+Results: Electrocardiography revealed that QRS, QT and Tp intervals were longer in group IV than group I. Doxorubicin caused a significant decrease in ventricular contraction, which was significantly prevented by bisoprolol. Doxorubicin resulted in myocardial fiber disorganization and disruption, but bisoprolol or linagliptin improved this myocardial damage. Glutathione peroxidase was significantly decreased in groups IV and V. Bisoprolol or linagliptin treatment attenuated the significant doxorubicin-mediated increase in malondialdehyde. Doxorubicin and linagliptin provided significant elevations in CK-MB activity and troponin-I levels.
+
+Conclusions: Doxorubicin resulted in pronounced oxidative stress. The beneficial effects of bisoprolol and linagliptin on myocardial functional, histopathological and biochemical changes could be related to the attenuation of oxidative load.
+
+==== >>>>
+Exp Ther Med. 2020 Feb;19(2):871-882.
+doi: 10.3892/etm.2019.8312. Epub 2019 Dec 10.
+Metoprolol and bisoprolol ameliorate hypertrophy of neonatal rat cardiomyocytes induced by high glucose via the PKC/NF-?B/c-fos signaling pathway
+Min Wang  1 , Qingbo Lv  1 , Liding Zhao  1 , Yao Wang  1 , Yi Luan  1 , Zhengwei Li  1 , Guosheng Fu  1 , Wenbin Zhang  1
+Affiliations
+
+    PMID: 32010247 PMCID: PMC6966202 DOI: 10.3892/etm.2019.8312 
+
+Free PMC article
+Abstract
+
+Hyperglycemia caused by diabetes mellitus could increase the risk of diabetic cardiomyopathy. However, to the best of our knowledge, the underlying mechanism of this process is still not fully explored. Thus, developing ways to prevent hyperglycemia can be beneficial for diabetic patients. The present study was designed to investigate the influence of metoprolol and bisoprolol on the cardiomyocytic hypertrophy of neonatal rat cardiomyocytes. Cardiomyocytes were cultured in two types of media: One with low glucose levels and one with high glucose levels. Cardiomyocytes cultured in high glucose were further treated with the following: A protein kinase C (PKC) inhibitor, an NF-?B inhibitor, metoprolol or bisoprolol. The pulsatile frequency, cellular diameter and surface area of cardiomyocytes were measured. Protein content and [3H]-leucine incorporation were determined, atrial natriuretic peptide (ANP), ?-myosin heavy chain (?-MHC) and ?-myosin heavy chain (?-MHC) mRNA levels were calculated by reverse transcription-quantitative PCR, while the expression and activation of PKC-?, PKC-?2, NF-?B, tumor necrosis factor-? (TNF-?), and c-fos were detected by western blotting. Metoprolol or bisoprolol were also used in combination with PKC inhibitor or NF-?B inhibitor to determine whether the hypertrophic response would be attenuated to a lower extent compared with metroprolol or bisoprolol alone. Cardiomyocytes cultured in high glucose presented increased pulsatile frequency, cellular diameter, surface area, and protein content and synthesis, higher expression of ANP and ?-MHC, and lower ?-MHC expression. High glucose levels also upregulated the expression and activation of PKC-?, PKC-?2, NF-?B, TNF-? and c-fos. Metoprolol and bisoprolol partly reversed the above changes, while combined use of metoprolol or bisoprolol with PKC inhibitor or NF-?B inhibitor further ameliorated the hypertrophic response mentioned above to lower levels compared with using metroprolol or bisoprolol alone. In conclusion, metoprolol and bisoprolol could prevent hypertrophy of cardiomyocytes cultured in high glucose by the inhibition of the total and phospho-PKC-?, which could further influence the PKC-?/NF-?B/c-fos signaling pathway.
+
+Keywords: bisoprolol; cardiac hypertrophy; diabetic cardiomyopathy; metoprolol; protein kinase C.
+
+==== >>>>
+Naunyn Schmiedebergs Arch Pharmacol. 2021 Apr;394(4):685-695.
+doi: 10.1007/s00210-020-02007-9. Epub 2020 Oct 27.
+Pretreatment with bisoprolol and vitamin E alone or in combination provides neuroprotection against cerebral ischemia/reperfusion injury in rats
+Chiman Salehi  1 , Monireh Seiiedy  1 , Hamid Soraya  2 , Farzaneh Fazli  1 , Morteza Ghasemnejad-Berenji  3
+Affiliations
+
+    PMID: 33106920 DOI: 10.1007/s00210-020-02007-9 
+
+Abstract
+
+Global cerebral ischemia/reperfusion (I/R) induces selective neuronal injury in the hippocampus, leading to severe impairment in behavior, learning, and memory functions. This study aimed to evaluate the neuroprotective effects of bisoprolol (biso) and vitamin E (vit E) treatment alone or in combination on cerebral ischemia/reperfusion (I/R) injury. A total of 30 male rats were divided randomly into five groups (n = 6), sham, I/R, I/R + biso, I/R + vit E, and I/R + biso+vit E. Cerebral I/R group underwent global ischemia by bilateral common carotid artery occlusion for 20 min. Treatment groups received drugs once daily intraperitoneally for 7 days before the I/R induction. Locomotive and cognitive behaviors were utilized by open-field and Morris water maze tests. After behavioral testing, the brain was removed and processed to evaluate cerebral infarct size, histopathologic changes, myeloperoxidase (MPO) activity, and malondialdehyde (MDA) level. In I/R group tissue MDA and MPO levels and cerebral infarct size were significantly increased in comparison with the sham group. Furthermore, significant deficits were observed in locomotion and spatial memory after I/R. The areas of cerebral infarction, MPO, and MDA levels in biso, vit E, and combination group were significantly reduced compared with I/R group. Histopathological analysis demonstrated a significant reduction in leukocyte infiltration in all treated groups with the most profound reduction in the combination group. According to the behavioral tests, administration of biso and/or vit E protected locomotive ability and improved spatial memory after cerebral I/R. Our findings show that biso and vit E have beneficial effects against the I/R injury and due to their synergistic effects when administered in combination, may have a more pronounced protective effect on the cerebral I/R injury.
+
+Keywords: Bisoprolol; Infarct size; Ischemia/reperfusion; Malondialdehyde; Myeloperoxidase; Vitamin E.
+
+
+==== >>>>
+Fundam Clin Pharmacol. 2020 Dec;34(6):708-720.
+doi: 10.1111/fcp.12562. Epub 2020 May 25.
+Bisoprolol, a ? 1 antagonist, protects myocardial cells from ischemia-reperfusion injury via PI3K/AKT/GSK3? pathway
+Jing Wang  1 , Jing Liu  1 , Liang Xie  1 , Xiaomin Cai  1 , Xiaohua Ma  1 , Jianbin Gong  1
+Affiliations
+
+    PMID: 32363697
+    DOI: 10.1111/fcp.12562
+
+Abstract
+
+The aim of this work was to explore whether bisoprolol plays a protective role in cardiomyocytes against ischemia-reperfusion injury via PI3K/AKT/ GSK3? pathway. We pretreated male Sprague Dawley (SD) rats with bisoprolol by oral administration prior to 0.5 h ischemia/4 h reperfusion. Myocardial infarct size and serum levels of cTnI and CK-MB were measured. In vitro, H9c2 cells were treated with hypoxia and reoxygenation, followed by measurement of cell viability, apoptosis, ROS production, cytometry, activities of AKT, GSK3?, and p-38 in the presence and absence of GSK3? siRNA. We found that bisoprolol reduced infarct size from 44% in I/R group to 31% in treated group (P < 0.05). The levels of cTnI and CK-MB were decreased from 286 ± 7 pg/mL and 32.2 ± 2 ng/mL in I/R group to 196 ± 2 pg/mL and 19.6 ± 0.9 ng/mL in the treated group, respectively (P < 0.05). Bisoprolol also increased cell viability while decreased apoptosis and ROS production in the treatment of hypoxia/ reoxygenation. Furthermore, bisoprolol increased AKT and GSK3? phosphorylation, an effect that was immediately eliminated by LY294002. GSK3?-specific siRNA experiment further confirmed that bisoprolol protected the myocardium against hypoxia/reoxygenation-induced injury via suppressing GSK3? activity. In conclusion, bisoprolol protected myocardium against ischemia-reperfusion injury via the PI3K/AKT/ GSK3? pathway.
+
+Keywords: PI3K/AKT/GSK3?; bisoprolol; hypoxia/reoxygenation; ischemia/reperfusion.
+
+==== >>>>
+CNS Neurosci Ther. 2013 Mar;19(3):178-82.
+doi: 10.1111/cns.12057.
+Effects of combination therapy with levamlodipine and bisoprolol on stroke in rats
+Huan Gui  1 , Yong-Fei Guo, Xia Liu, Jing-Ming Zhang, Yan-Ling Yang, Gao-Zhong Huang, Jian-Guo Liu
+Affiliations
+
+    PMID: 23441690
+    PMCID: PMC6493655
+    DOI: 10.1111/cns.12057
+
+Free PMC article
+Abstract
+
+Aim: To examine the effects of combination with levamlodipine and bisoprolol on stroke in rats.
+
+Methods: For acute study, Systolic blood pressure (SBP) and heart period (HP) were monitored in conscious stroke prone-spontaneously hypertensive rats (SHR-SP) and sinoaortic denervation (SAD) rats before and after intragastric administration of either drug at a single dose. Rats were subjected to middle cerebral arterial occlusion (MCAO) half an hour after drug administration; sacrificed 24 h later to measure the infarct size. For long-term study, drugs (either alone or in combination) were delivered via food to SHR-SP. The survival time was recorded.
+
+Results: SBP was significantly reduced by combination therapy both in SHR-SP and SAD rats. Neutralization on heart rate (HR) was observed in combination. The drug combination increased baroreflex sensitivity (BRS) and reduced SBP variability (SBPV). In chronic experiments, the lifespan of SHR-SP rats exposed to the drug combination was longer than that in rats exposed to either drug alone. The infarct area was the smallest in subjects receiving drug combination in SD rats both with and without SAD.
+
+Conclusion: Combined use of levamlodipine and bisoprolol produced better protection against stroke.
+
+==== >>>>
+Am J Vet Res. 2008 Dec;69(12):1659-63.
+doi: 10.2460/ajvr.69.12.1659.
+Comparison of the pharmacokinetic properties of bisoprolol and carvedilol in healthy dogs
+Gerald Beddies  1 , Philip R Fox, Mark D Papich, Venkata-Rangaro Kanikanti, Ralph Krebber, Bruce W Keene
+Affiliations
+
+    PMID: 19046015
+    DOI: 10.2460/ajvr.69.12.1659
+
+Abstract
+
+Objective: To compare the pharmacokinetic properties and bioavailability following oral and IV administration of bisoprolol, a second-generation beta1-adrenoceptor-selective blocking agent, with those of carvedilol, a third-generation beta1/beta2 and alpha1-adrenoceptor blocking agent, in dogs.
+
+Animals: 12 healthy adult Beagles.
+
+Procedures: A prospective, parallel group study was performed. The dogs were allocated to 1 of 2 groups (6 dogs/group) and were administered orally a 1 mg/kg dose of either bisoprolol or carvedilol. Following a 1-week washout period, each cohort received a 1 mg/kg dose of the same drug IV. Blood samples were collected before and after drug administration, and serum concentrations, pharmacokinetic variables, and bioavailability for each agent were assessed.
+
+Results: After oral administration of bisoprolol, the geometric mean value of the area under the concentration-time curve extrapolated to infinity (AUCinf) was 2,195 microg/L (coefficient of variation [CV], 15%). After IV administration of bisoprolol, the dose-normalized geometric mean AUCinf was 2,402 microg/L (CV, 19%). Oral bioavailability of bisoprolol was 91.4%. After oral administration of carvedilol, the geometric mean AUCinf was 70 microg/L (CV, 81%). After IV administration of carvedilol, the geometric mean AUCinf was 491 microg/L (CV, 23%). Oral bioavailability of carvedilol was 14.3%. Total body clearance was low (0.42 L/h/kg) for bisoprolol and high (2.0 L/h/kg) for carvedilol.
+
+Conclusions and clinical relevance: After oral administration, carvedilol underwent extensive first-pass metabolism and had limited bioavailability; bisoprolol had less first-pass effect and higher bioavailability. Collectively, these differences suggested that, in dogs, bisoprolol has less interindividual pharmacokinetic variability, compared with carvedilol.
+
+==== >>>>
+J Cardiovasc Pharmacol. 1986;8 Suppl 11:S21-8.
+doi: 10.1097/00005344-198511001-00004.
+Pharmacokinetics and metabolism of bisoprolol-14C in three animal species and in humans
+K U Buhring, H Sailer, H P Faro, G Leopold, J Pabst, A Garbe
+
+    PMID: 2439794
+    DOI: 10.1097/00005344-198511001-00004
+
+Abstract
+
+The pharmacokinetic properties of bisoprolol-14C were studied in Wistar rats, beagle dogs, and Cynomolgus monkeys. Bisoprolol is well absorbed in these species; independent of the route of administration (i.v. or p.o.), 70-90% of the 14C-dose was recovered in urine. Faecal excretion was approximately 20% in rats and less than 10% in dogs and monkeys. Rats excreted approximately 10% of the dose in bile after i.v. as well as after oral administration. The plasma half-life of the unchanged drug was approximately 1 h in rats, 3 h in monkeys, and 5 h in dogs. The bioavailability was 40-50% in monkeys, approximately 80% in dogs, and 10% in rats. Studies in rats have shown that the drug is rapidly taken up by the tissues. After i.v. administration, high levels of radioactivity were found in lung, kidneys, liver, adrenals, spleen, pancreas, and salivary glands. After oral administration, the highest concentration occurred in the liver and kidneys. With the exception of plasma and liver, unchanged bisoprolol was the major radioactive constituent in all tissues studied. Both the blood-brain and placental barriers were penetrated, but only to a small degree. No accumulation of radioactivity in tissues was observed after repeated dosing (1 mg/kg/day). The metabolism of bisoprolol was studied in the same three animal species and in humans. The major metabolites are the products of O-dealkylation and subsequent oxidation to the corresponding carboxylic acids. The amount of bisoprolol excreted unchanged in the urine is 50-60% of the dose in humans, 30-40% in dogs, and approximately 10% in rats and monkeys.
+
+
+==== >>>>
+Int J Mol Sci. 2019 Feb 2;20(3):657.
+doi: 10.3390/ijms20030657.
+Bisoprolol, Known to Be a Selective ??-Receptor Antagonist, Differentially but Directly Suppresses I K(M) and I K(erg) in Pituitary Cells and Hippocampal Neurons
+Edmund Cheung So  1   2   3 , Ning-Ping Foo  4   5   6 , Shun Yao Ko  7 , Sheng-Nan Wu  8   9
+Affiliations
+
+    PMID: 30717422
+    PMCID: PMC6386942
+    DOI: 10.3390/ijms20030657
+
+Free PMC article
+Abstract
+
+Bisoprolol (BIS) is a selective antagonist of ?? adrenergic receptors. We examined the effects of BIS on M-type K? currents (IK(M)) or erg-mediated K? currents (IK(erg)) in pituitary GH3, R1220 cells, and hippocampal mHippoE-14 cells. As GH? cells were exposed to BIS, amplitude of IK(M) was suppressed with an IC50 value of 1.21 ?M. The BIS-induced suppression of IK(M) amplitude was not affected by addition of isoproterenol or ractopamine, but attenuated by flupirtine or ivabradine. In cell-attached current, BIS decreased the open probability of M-type K? (KM) channels, along with decreased mean opening time of the channel. BIS decreased IK(erg) amplitude with an IC50 value of 6.42 ?M. Further addition of PD-118057 attenuated BIS-mediated inhibition of IK(erg). Under current-clamp conditions, BIS depolarization increased the firing of spontaneous action potentials in GH? cells; addition of flupirtine, but not ractopamine, reversed BIS-induced firing rate. In R1220 cells, BIS suppressed IK(M); subsequent application of ML-213(Kv7.2 channel activator) reversed BIS-induced suppression of the current. In hippocampal mHippoE-14 neurons, BIS inhibited IK(M) to a greater extent compared to its depressant effect on IK(erg). This demonstrated that in pituitary cells and hippocampal neurons the presence of BIS is capable of directly and differentially suppressing IK(M) and IK(erg), despite its antagonism of ??-adrenergic receptors.
+
+Keywords: M-type K+ channel. erg-mediated K+ current; M-type K+ current; bisoprolol; membrane potential; pituitary cell.
+
+
+==== >>>>
+CNS Neurosci Ther. 2012 Jun;18(6):471-4.
+doi: 10.1111/j.1755-5949.2012.00323.x.
+Synergic effects of levamlodipine and bisoprolol on blood pressure reduction and organ protection in spontaneously hypertensive rats
+Yan-Ling Yang  1 , Li-Ting Yu, Zhao-Tang Wu, Jian-Guang Yu, Jing-Ming Zhang, Qing-Hua Chen, Yong-Chu Bao, Jian-Guo Liu
+Affiliations
+
+    PMID: 22672299
+    PMCID: PMC6493401
+    DOI: 10.1111/j.1755-5949.2012.00323.x
+
+Free PMC article
+Abstract
+
+Aims: Stroke is a major cause of disability and death worldwide. Hypertension is one of the most important risk factors for stroke. The objective of this work was to study the synergic effects of levamlodipine and bisoprolol on blood pressure reduction and organ protection in spontaneously hypertensive rats (SHR).
+
+Methods: Blood pressure was continuously monitored in conscious SHR. For acute study, a single dose of drugs was administrated via an intragastric catheter. For chronic study (4 months), drugs were delivered via rat chow.
+
+Results: A single dose of levamlodipine (from 1 mg/kg), bisoprolol (from 0.125 mg/kg), and their combinations significantly decreased blood pressure. The levamlodipine-induced tachycardia and the bisoprolol-induced bradycardia were temporized by the combination of these two drugs. Upon chronic treatment, this combination also decreased blood pressure variability and reduced organ damage.
+
+Conclusion: Levamlodipine and bisoprolol produce synergic effects on blood pressure reduction and organ protection in SHR.
+
+© 2012 Blackwell Publishing Ltd.
+
+==== >>>>
+Zhonghua Yi Xue Za Zhi. 2015 May 19;95(19):1475-8.
+[Effects of L-carnitine and bisoprolol on endoplasmic reticulum stress-mediated myocardial injury after cardiopulmonary resuscitation in rats]
+[Article in Chinese]
+Meiqi Zhang  1 , Aiping Wu  1 , Ye Shen  1 , Huan Chen  1 , Jianfeng Tu  1 , Changlin Zhai  2
+Affiliations
+
+    PMID: 26178496
+
+Abstract
+
+Objective: To explore the effects of L-carnitine and bisoprolol on endoplasmic reticulum stress-mediated myocardial injury after cardiopulmonary resuscitation in rats.
+
+Methods: A total of 75 Sprague-Dawley rats were randomly divided into 5 groups of sham operation (sham); cardiopulmonary resuscitation (CR), L-carnitine (L), bisoprolol treatment (B) and L-carnitine and bisoprolol treatment (LB). Myocardial pathological changes were detected by hematoxylin and eosin, myocardial apoptosis by terminal deoxynucleotidyl transferase mediated dUTP nick and the expressions of key factors in endoplasmic reticulum (ER) by Western blot.
+
+Results: Compared with sham group, apoptosis and pathological lesions significantly increased in other groups (P < 0.05). And the levels of GRP78, CHOP and Caspase-12 were significantly higher (P < 0.05). The expression of ER factor protein and the degrees of myocardial injury in LB and B groups decreased compared with CR group. And LB group was the most obvious.
+
+Conclusions: Combined use of levocarnitine and bisoprolol exerts protective effects on cardiopulmonary resuscitation in rats. And the mechanism may be related to an inhibition of ER stress.
+
+
+==== >>>>
+Circ Heart Fail. 2012 Jan;5(1):97-105.
+doi: 10.1161/CIRCHEARTFAILURE.111.964494. Epub 2011 Dec 9.
+Bisoprolol delays progression towards right heart failure in experimental pulmonary hypertension
+Frances S de Man  1 , M Louis Handoko, Joris J M van Ballegoij, Ingrid Schalij, Sylvia J P Bogaards, Pieter E Postmus, Jolanda van der Velden, Nico Westerhof, Walter J Paulus, Anton Vonk-Noordegraaf
+Affiliations
+
+    PMID: 22157723
+    DOI: 10.1161/CIRCHEARTFAILURE.111.964494
+
+Free article
+Abstract
+
+Background: In pulmonary arterial hypertension (PH), sympathetic adrenergic activity is highly elevated. Sympathetic overactivity is a compensatory mechanism at first, but might be detrimental for cardiac function in the long run. We therefore investigated whether chronic low-dose treatment with bisoprolol (a cardioselective ?-blocker) has beneficial effects on cardiac function in experimental PH.
+
+Methods and results: PH was induced in rats by a single injection of monocrotaline (60 mg/kg). Pressure telemetry in PH rats revealed that 10 mg/kg bisoprolol was the lowest dose that blunted heart rate response during daily activity. Ten days after monocrotaline injection, echocardiography was performed and PH rats were randomized for bisoprolol treatment (oral gavage) or vehicle (n=7/group). At end of study (body mass loss >5%), echocardiography was repeated, with additional pressure-volume measurements and histomolecular analyses. Compared with control, right ventricular (RV) systolic pressure and arterial elastance (measure of vascular resistance) more than tripled in PH. Bisoprolol delayed time to right heart failure (P<0.05). RV afterload was unaffected, however, bisoprolol treatment increased RV contractility and filling (both P<0.01), and partially restored right ventriculo-arterial coupling and cardiac output (both P<0.05). Bisoprolol restored RV ?-adrenergic receptor signaling. Histology revealed significantly less RV fibrosis and myocardial inflammation in bisoprolol treated PH rats.
+
+Conclusions: In experimental PH, treatment with bisoprolol delays progression toward right heart failure, and partially preserves RV systolic and diastolic function. These promising results suggest a therapeutic role for ?-blockers in PH that warrants further clinical investigation.
+
+
+==== >>>>
+J Pharm Sci. 1997 May;86(5):560-4.
+doi: 10.1021/js960453v.
+Stereoselective pharmacokinetics of bisoprolol after intravenous and oral administration in beagle dogs
+Y Horikiri  1 , T Suzuki, M Mizobe
+Affiliations
+
+    PMID: 9145379
+    DOI: 10.1021/js960453v
+
+Abstract
+
+The stereoselective pharmacokinetics of bisoprolol, a highly beta 1-selective adrenoceptor blocking agent, was studied in dogs. After intravenous and oral administration of the racemate, there was a difference in the plasma concentration between S(-)- and R(+)-bisoprolol. The area under the curve (AUC) of concentration versus time of S(-)-bisoprolol was approximately 1.5 times higher than that of R(+)-bisoprolol and the elimination half-life of S(-)-bisoprolol was approximately 1.4 times longer than that of R(+)-bisoprolol. However, no differences were observed in the volume of distribution, absolute bioavailability, and renal clearance between the two enantiomers. The plasma protein binding of S(-)-bisoprolol was also the same as that of the R(-)-isomer. No chiral inversion or enantiomer-enantiomer interaction was observed, when enantiomers were solely administered via the intravenous route. The comparison of the oxidative metabolic rate of two enantiomers using dog liver microsomes demonstrated that the metabolite was more slowly formed from S(-)- than from R(+)-bisoprolol. Consequently, we concluded that the stereoselective difference in the metabolic clearance between S(-)- and R(+)-bisoprolol caused the difference in the disposition of bisoprolol enantiomers.
+
+
+==== >>>>
+Life Sci . 1998;63(13):1097-108.
+doi: 10.1016/s0024-3205(98)00371-3.
+Stereoselective metabolism of bisoprolol enantiomers in dogs and humans
+Y Horikiri  1 , T Suzuki, M Mizobe
+Affiliations
+
+    PMID: 9763205
+    DOI: 10.1016/s0024-3205(98)00371-3
+
+Abstract
+
+To clarify the mechanism of the species difference in the metabolism of bisoprolol enantiomers, in vitro metabolic studies were performed using dog liver microsomes and human cytochrome P450 (CYP) isoforms. The O-deisopropylation of bisoprolol enantiomers showed biphasic kinetics in dog liver microsomes. The intrinsic clearance (Vmax/Km) for O-deisopropylation of R(+)-bisoprolol was higher than S(-)-isomer in both high-affinity and low-affinity components. The R/S ratio of the intrinsic clearance in high- and low-affinity components was 1.34 and 1.65, respectively. The inhibition studies in dog liver microsomes using CYP isoform-selective inhibitors indicated that the O-deisopropylation of both bisoprolol enantiomers was mediated via the CYP2D and CYP3A subfamily, and suggested that high-affinity oxidation was dependent on CYP2D. The kinds of CYP subfamilies in dogs, which contribute to the metabolism of bisoprolol enantiomers, were the same as those in humans. The intrinsic clearance for O-deisopropylation of R(+)bisoprolol by human recombinant CYP2D6 was also different from that of S(-)-enantiomers (R/S:1.50). However, unlike the dog microsomes, the intrinsic clearance by the human recombinant CYP3A4 did not show a stereoselective difference. Therefore, the species difference in the R/S ratio of metabolic clearance for the oxidation of bisoprolol enantiomers (dog > human) is mainly due to the species difference in the stereoselectivity of one of the cytochrome P450 subfamilies (CYP3A).
+
+==== >>>>
+Sci Rep. 2017 Sep 19;7(1):11859.
+doi: 10.1038/s41598-017-12366-8.
+Bisoprolol protects myocardium cells against ischemia/reperfusion injury by attenuating unfolded protein response in rats
+Chengcheng Zhang  1 , Songqing He  1 , Yanming Li  1 , Feng Li  1 , Zhengbing Liu  1 , Jing Liu  2 , Jianbin Gong  3
+Affiliations
+
+    PMID: 28928480
+    PMCID: PMC5605660
+    DOI: 10.1038/s41598-017-12366-8
+
+Free PMC article
+Abstract
+
+Bisoprolol (B) exerts potential cardioprotective effects against myocardial ischemia/reperfusion (I/R) injury. Unfolded protein response (UPR) attenuates I/R injury induced apoptosis by reducing oxidative damage and inflammation response. The current study investigated whether the protective effects of bisoprolol resulted from modulating UPR and anti-inflammatory during myocardial I/R condition and elucidated its potential mechanisms. Sprague-Dawley rats were treated with B in the absence or presence of the injected UPR activator dithiothreitol (DTT) and then subjected to myocardial I/R surgery. In vitro, cultured H9C2 cells were pretreated with B or DTT and then subjected to simulate ischemia reperfusion (SIR) operation. Bisoprolol conferred cardioprotective effects by improving postischemic cardiac function, decreasing infarct size, reducing apoptotic index, diminishing serum creatine kinase and lactate dehydrogenase levels, suppressing TNF-? and IL-6 secretion, inhibiting UPR signal pathways and downregulating caspase-12 and caspase-3 expressions. Consistently, B conferred similar antioxidative and anti-inflammatory effects against SIR injury in cultured H9C2 cardiomyocytes. Pretreatment with DTT or C/EBP homologous protein (CHOP) overexpression mediated by lentivirus administration both abolished these effects. In summary, our results demonstrate that Bisoprolol protects myocardium cells against ischemia/reperfusion injury partly by attenuating unfolded protein response.
+
+==== >>>>
+Pharmacol Res. 2005 Apr;51(4):359-65.
+doi: 10.1016/j.phrs.2004.10.010.
+Bisoprolol and hydrochlorothiazide effects on cardiovascular remodeling in spontaneously hypertensive rats
+Nathalie Mougenot  1 , Odile Mediani, Philippe Lechat
+Affiliations
+
+    PMID: 15683750
+    DOI: 10.1016/j.phrs.2004.10.010
+
+Abstract
+
+Anti-hypertensive agents may differently stimulate compensatory neuro-hormonal mechanisms and induce different effects on the cardiovascular remodeling and function. The combination of low doses of the two synergistic drugs may lead to a lesser activation of counter regulatory mechanisms and could provide optimal therapeutic benefit. We evaluated on spontaneously hypertensive rats the effect of 3-week period of anti-hypertensive treatment. Rats were divided into four groups: control, bisoprolol (100 mg kg-1), hydrochlorothiazide (10 mg kg-1), and their combination with low doses (10 and 1 mg kg-1, respectively). The effects of treatment were evaluated on neuro-hormonal stimulation, cardiac and vascular structure and function. The combination had synergistic anti-hypertensive effects and significantly reduced heart rate and blood pressure but to a lower extent compared with bisoprolol 100 mg kg-1. Combination therapy was associated with a lower renin activation compared to hydrochlorothiazide alone and improved endothelial function. Cardiovascular remodeling differed between the groups: with bisoprolol, cardiac hypertrophy was reduced; with the combination therapy, the aortic media/lumen ratio was most increased. The consequent shear stress reduction may explain the associated endothelial function improvement. Such favourable cardiovascular remodeling with diuretic-beta-blockade combination may participate to the long-term cardiovascular protection during anti-hypertensive treatment.
+
+==== >>>>
+J Cardiovasc Pharmacol. 2001 Oct;38 Suppl 1:S55-8.
+doi: 10.1097/00005344-200110001-00012.
+Bisoprolol improves survival in rats with heart failure
+K Watanabe  1 , Y Ohta, M Inoue, M Ma, M I Wahed, M Nakazawa, G Hasegawa, M Naito, K Fuse, M Ito, K Kato, H Hanawa, M Kodama, Y Aizawa
+Affiliations
+
+    PMID: 11811360
+    DOI: 10.1097/00005344-200110001-00012
+
+Abstract
+
+The cardioprotective effects of bisoprolol were studied in a rat model of severe heart failure induced by autoimmune myocarditis. Twenty-eight days after immunization, Lewis rats were divided into four groups: 0.1 mg/kg/day bisoprolol (Group 0.1), 1.0 mg/kg/day bisoprolol (Group 1) and 10 mg/kg/day bisoprolol (Group 10), and vehicle (0.5% methylcellulose; Group V) (all groups, n = 13). After oral administration for 1 month, heart weight, mean blood pressure, heart rate, central venous pressure, peak left ventricular pressure, left ventricular end-diastolic pressure, +/- dP/dt, and area of fibrosis were measured. Although bisoprolol reduced heart rate (399+/-11/min in Group V, 382+/-10/min in Group 0.1, 348+/-8/min in Group 1 and 302+/-9/min in Group 10) and increased survival (62% in Group V, 69% in Group 0.1, and 100% in Group 1 and Group 10) in a dose-dependent manner, this drug did not change heart weight, the area of myocardial fibrosis or hemodynamic parameters. These observations suggested that bisoprolol may improve survival independently of its effect on left ventricular function by reducing sudden death in patients with severe heart failure.
+
+
+==== >>>>
+J Physiol Biochem. 2016 Jun;72(2):293-302.
+doi: 10.1007/s13105-016-0481-9. Epub 2016 Mar 19.
+?1-Adrenergic blocker bisoprolol reverses down-regulated ion channels in sinoatrial node of heart failure rats
+Yuan Du  1 , Junbo Zhang  1 , Yutao Xi  2 , Geru Wu  1 , Ke Han  1 , Xin Huang  1 , Aiqun Ma  1   3   4 , Tingzhong Wang  5   6   7
+Affiliations
+
+    PMID: 26995749
+    DOI: 10.1007/s13105-016-0481-9
+
+Abstract
+
+Bisoprolol, an antagonist of ?1-adrenergic receptors, is effective in reducing the morbidity and mortality in patients with heart failure (HF). It has been found that HF is accompanied with dysfunction of the sinoatrial node (SAN). However, whether bisoprolol reverses the decreased SAN function in HF and how the relevant ion channels in SAN change were relatively less studied. SAN function and messenger RNA (mRNA) expression of sodium channels and hyperpolarization-activated cyclic nucleotide-gated (HCN) channel subunits were assessed in sham-operated rats, abdominal arterio-venous shunt (volume overload)-induced HF rats, and bisoprolol- treated HF rats. SAN cells of rats were isolated by laser capture microdissection. Quantitative real-time PCR analysis was used to quantify mRNA expression of sodium channels and HCN channel subunits in SAN. Intrinsic heart rate declined and sinus node recovery time prolonged in HF rats, indicating the suppressed SAN function, which could be improved by bisoprolol treatment. Nav1.1, Nav1.6, and HCN4 mRNA expressions were reduced in SAN in HF rats compared with that in control rats. Treatment with bisoprolol could reverse both the SAN function and the Nav1.1, Nav1.6, and HCN4 mRNA expression partially. These data indicated that bisoprolol is effective in HF treatment partially due to improved SAN function by reversing the down-regulation of sodium channels (Nav1.1 and Nav1.6) and HCN channel (HCN4) subunits in SAN in failing hearts.
+
+Keywords: Bisoprolol; HCN channel; Heart failure; Remodeling; Sinoatrial node; Sodium channel.
+
+
+==== >>>>
+Eur J Pharmacol. 2000 Oct 6;406(1):109-16.
+doi: 10.1016/s0014-2999(00)00641-5.
+Comparison of bisoprolol and carvedilol cardioprotection in a rabbit ischemia and reperfusion model
+F Gao  1 , J Chen, B L Lopez, T A Christopher, J Gu, P Lysko, R R Ruffolo Jr, E H Ohlstein, X L Ma, T L Yue
+Affiliations
+
+    PMID: 11011041
+    DOI: 10.1016/s0014-2999(00)00641-5
+
+Abstract
+
+Carvedilol, a selective alpha(1) and non-selective beta-adrenoceptor antagonist and antioxidant, has been shown to provide significant cardiac protection in animal models of myocardial ischemia. To further explore the mechanisms contributing to the efficacy of carvedilol cardioprotection, the effects of carvedilol on hemodynamic variables, infarct size and myeloperoxidase activity (an index of neutrophil accumulation) were compared with a beta(1) selective adrenoceptor antagonist, bisoprolol. Carvedilol (1 mg/kg) or bisoprolol (1 mg/kg) was given intravenously 5 min before reperfusion. In vehicle-treated rabbits, ischemia (45 min) and reperfusion (240 min) resulted in significant increases in left ventricular end diastolic pressure, large myocardial infarction (64.7+/-2.6% of area-at-risk) and a marked increase in myeloperoxidase activity (64+/-14 U/g protein in area-at-risk). Carvedilol treatment resulted in sustained reduction of the pressure-rate-index and significantly smaller infarcts (30+/-2.9, P<0.01 vs. vehicle) as well as decreased myeloperoxidase activity (26+/-11 U/g protein in area-at-risk, P<0.01 vs. vehicle). Administration of bisoprolol at 1 mg/kg resulted in a pressure-rate-index comparable to that of carvedilol and also decreased infarct size (48.4+/-2.5%, P<0.001 vs. vehicle, P<0.05 vs. carvedilol), although to a significantly lesser extent than that observed with carvedilol. Treatment with bisoprolol failed to reduce myeloperoxidase activity in the ischemic myocardial tissue. In addition, carvedilol, but not bisoprolol, markedly decreased cardiac membrane lipid peroxidation measured by thiobarbituric acid formation. Taken together, this study suggests that the superior cardioprotection of carvedilol over bisoprolol is possibly the result of carvedilol's antioxidant and anti-neutrophil effects, not its hemodynamic properties.
+
+
+==== >>>>
+Clin Exp Pharmacol Physiol. 2007 Aug;34(8):714-9.
+doi: 10.1111/j.1440-1681.2007.04628.x.
+Bisoprolol inhibits sodium current in ventricular myocytes of rats with diastolic heart failure
+Hui-Fang Tang  1 , Shu-Lin Wu, Chun-Yu Deng, Wen-Chang Zhang, Su-Juan Kuang
+Affiliations
+
+    PMID: 17600546
+    DOI: 10.1111/j.1440-1681.2007.04628.x
+
+Abstract
+
+1. Changes in sodium currents (I(Na)) in heart failure contribute to cardiac electrophysiological alterations and, thereby, to ventricular arrhythmias. Bisoprolol has anti-arrhythmic effects, but its direct effect on I(Na) in cardiac cells remains unclear. Accordingly, in the present study we investigated the effects of bisoprolol on ventricular I(Na) in diastolic heart failure (DHF) and normal rats. 2. The DHF model was produced by abdominal aortic coarctation for 4 weeks and single ventricular myocytes were isolated by enzymatic dissociation. The electrophysiological actions of bisoprolol on I(Na) currents were investigated using a whole-cell patch-clamp technique. 3. The membrane capacitance of rats in the DHF group was significantly greater than that of the control group and the current-voltage curve was simultaneously shifted downward. Bisoprolol concentration-dependently decreased I(Na) in ventricular myocytes of both groups (at -45 mV), with IC(50) values of 19.53 +/- 0.06 and 40.78 +/- 0.03 micromol/L in the control and DHF groups, respectively. 4. In both groups, the current-voltage curves were shifted upwards, whereas activation potentials, peak currents and reversal potentials showed no significant changes. At -45 mV, the descent ratio of current densities in the DHF group was lower than that of the control group. In both groups, inactivation curves were shifted to more negative potentials, but activation curves and recovery curves were not altered. Changes in the half-inactivation voltage, V(0.5), and the slope of the inactivation curve, S, were similar for both groups. 5. In conclusion, bisoprolol concentration-dependently decreases I(Na) in ventricular myocytes of DHF and normal rats, which could be responsible, at least in part, for its anti-arrhythmic effects.
+
+
+==== >>>>
+Nan Fang Yi Ke Da Xue Xue Bao. 2016 Aug 20;36(9):1198-1203.
+Effects of bisoprolol pretreatment on hypoxia/reoxygenation-induced injury in H9c2 cardiomyocytes
+Ming-Ming Xi  1 , Jing Liu, Liang Xie, Jian-Bin Gong
+Affiliations
+
+    PMID: 27687650
+
+Abstract
+
+Objective: To investigated the effects of bisoprolol pretreatment on hypoxia/reoxygenation (H/R)-induced injury in H9c2 cardiomyocytes.
+
+Methods: Cultured H9c2 cells were exposed to hypoxia for 6 h followed by reoxygenation for 2 h with or without pretreatments with bisoprolol or bisoprolol + LY294002. The cell survival was measured by MTT assay, and the cell apoptosis and levels of radical oxygen species (ROS) were evaluated with flow cytometry. The protein levels of phosphyorylated AKT and phosphorylated GSK3? in the cells were determined by Western blotting.
+
+Results: Compared with the normal control cells, the cells exposed to H/R injury showed significantly decreased cell survival and increased cell apoptosis and ROS production; pretreatment of the cells with bisoprolol significantly decreased the cell apoptotic rates and ROS production and obviously enhanced the cell survival and protein levels of p-AKT and p-GSK3? in the exposed cells. The protective effect of bsioprolol against H/R-induced cell injury was significantly attenuated by LY294002.
+
+Conclusion: Bisoprolol can protect H9c2 cells against H/R-induced injury and oxidative stress by activating PI3K/AKT/Gsk-3? pathway to increase the phosphorylation of AKT and GSK3? and reduce ROS production.
+
+==== >>>>
+J Cardiovasc Pharmacol. Nov-Dec 1984;6(6):1156-60.
+Beta 1-selectivity of bisoprolol, a new beta-adrenoceptor antagonist, in anesthetized dogs and guinea pigs
+H J Schliep, J Harting
+
+    PMID: 6084774
+
+Abstract
+
+The beta-adrenoceptor activity of the newly synthesized antagonist bisoprolol [+/-)-1-[4-(2-isopropoxyethoxymethyl)-phenoxy]-3-isopropylamino-2- propranol, hemifumarate), has been compared with the effect of several reference compounds in anesthetized dogs and guinea pigs. In anesthetized, bivagotomized dogs, isoprenaline dose-response relations for increase in heart rate and decrease in diastolic blood pressure were established. Bisoprolol had the largest beta 1/beta 2 ratio, i.e., 147 (102-292). Practolol showed a beta 1/beta 2 ratio greater than 17; betaxolol 6-15; acebutolol, atenolol, and metoprolol 1.1-3.2; mepindolol 0.6-1 and propranolol 0.2. In artificially ventilated guinea pigs, the activity of bisoprolol on histamine-induced increase in tracheal lateral pressure (TLP) and basal heart rate (HR) was tested: using doses taken at TLP (30 mm Hg) and HR (250 beats/min), bisoprolol exhibited the most pronounced ratio TLP/HR of 124 +/- 59, followed by atenolol 33 +/- 23, metoprolol 25 +/- 15, betaxolol 12 +/- 4, propranolol 1 +/- 0.3, and celiprolol 0.23 +/- 0.19. These experiments indicate that bisoprolol possesses a pronounced beta 1-selectivity, which seems to be superior to that of known beta 1-selective antagonists.
+
+==== >>>>
+J Cardiovasc Pharmacol. 1986;8 Suppl 11:S2-15.
+doi: 10.1097/00005344-198511001-00002.
+High beta 1-selectivity and favourable pharmacokinetics as the outstanding properties of bisoprolol
+G Haeusler, H J Schliep, P Schelling, K H Becker, M Klockow, K O Minck, H J Enenkel, E Schulze, R Bergmann, C J Schmitges, et al.
+
+    PMID: 2439793
+    DOI: 10.1097/00005344-198511001-00002
+
+Abstract
+
+Bisoprolol, (+/-)1-(4-[(2-isopropoxyethoxy)-methyl]-phenoxy)-3-isopropyl-amino -2- propanol-hemifumarate, is a new, highly selective beta 1-adrenoceptor blocking agent without intrinsic sympathomimetic activity and low to moderate local anaesthetic activity. As demonstrated in binding experiments, and in classical pharmacological studies using rats, guinea pigs, cats, and dogs, bisoprolol markedly differentiated between beta 1-adrenoceptors of the heart, or the renal juxtaglomerular apparatus, and the beta 2-subtype in arterial blood vessels, bronchi, liver, or skeletal muscle. Up to concentrations nearly 100-fold higher than the therapeutic plasma levels in humans, bisoprolol did not affect the functional refractory period of the heart, and was devoid of a direct suppressive effect on myocardial contractility and of calcium antagonistic properties in heart and vascular muscle. The pattern of haemodynamic effects of bisoprolol was typical of beta-blockers and included decreases in blood pressure (BP), heart rate (HR), and cardiac output, concomitant with an increase in calculated total peripheral resistance. In contrast to other beta-blockers, bisoprolol increased renal blood flow in anaesthetized dogs. Bisoprolol lowered BP in hypertensive dogs and rats, attenuated the development of spontaneous hypertension in rats, decreased plasma renin activity and protected the heart from the sequelae of transient ischemia. It did not block presynaptic beta-adrenoceptors in blood vessels. Serum lipids and the serum lipoprotein profile remained unaltered after bisoprolol. Bisoprolol was devoid of affinity for autonomic receptors other than beta-adrenoceptors or for autacoid receptors. This is probably one of the reasons why bisoprolol did not affect the function of the central nervous, respiratory, and gastrointestinal systems in an obvious way. The high beta 1-selectivity of bisoprolol is linked with extremely favourable pharmacokinetic properties. These include nearly complete enteral absorption and virtual absence of liver first-pass metabolism, both resulting in high bioavailability, long plasma half-life, pharmacokinetics that are linear over a wide dose range and independent of age, food intake and hydroxylator status, low plasma protein binding, and a 1:1 ratio of hepatic metabolization to renal elimination of the unaltered substance. This sum of favourable pharmacological and pharmacokinetic properties characterize bisoprolol as an optimized beta-blocker.
+
+==== >>>>
+Exp Ther Med. 2016 Oct;12(4):2027-2038.
+doi: 10.3892/etm.2016.3570. Epub 2016 Aug 4.
+Achievement of a target dose of bisoprolol may not be a preferred option for attenuating pressure overload-induced cardiac hypertrophy and fibrosis
+Shizhao Xiang  1 , Ning Zhang  1 , Zheng Yang  1 , Zhouyan Bian  1 , Yuan Yuan  1 , Qizhu Tang  1
+Affiliations
+
+    PMID: 27698689
+    PMCID: PMC5038470
+    DOI: 10.3892/etm.2016.3570
+
+Free PMC article
+Abstract
+
+Bisoprolol is a drug that acts via the mechanism of specifically and selectively inhibiting the ?1-adrenoreceptor in cardiac myocytes, and provides a pure reduction of heart rate without changing other cardiac parameters. It has long been clinically used to treat cerebrovascular and cardiovascular illnesses. However, there is little information available on whether the role of bisoprolol in the attenuation of ventricular remodeling is dependent upon the achievement of a target dose, and whether it must be used as a preferred option. The aim of the present study was to clarify the underlying benefits of bisoprolol in the attenuation of pressure overload-induced cardiac hypertrophy and fibrosis at different doses. C57BL/6J male mice, aged 6-8 weeks, were treated with saline or one of three different doses of bisoprolol (Biso: 2.5, 5 or 10 mg/kg/day) for 8 weeks from day 1 after aortic banding (AB). A number of mice underwent sham surgery and were treated with saline or bisoprolol. The mice were randomly assigned into the sham (n=24) and AB (n=62) groups. The results revealed that bisoprolol had a protective role against the cardiac hypertrophy, fibrosis and dysfunction caused by AB. This was determined on the basis of heart/body and lung/body weight ratios and heart weight/tibia length ratios, as well as echocardiographic and hemodynamic parameters, histological analysis, and the gene expression levels of hypertrophic and fibrotic markers. The present study revealed that administration of bisoprolol for a long time period may enhance its role in the prevention of cardiac hypertrophy and fibrosis induced by AB, whereas no statistically significant difference was observed between the middle- and high-doses. These observations indicated that the function of bisoprolol in protecting against cardiac hypertrophy, fibrosis and dysfunction is time-dependent. Furthermore, it is proposed that a middle dose of bisoprolol may be a better option for patients with cardiovascular illnesses, particularly those undertaking coronary artery bypass graft and cardiac pacemaker surgeries. These promising results require further clinical investigation.
+
+Keywords: bisoprolol; cardiac fibrosis; cardiac hypertrophy; ? adrenoreceptor blocker.
+
+==== >>>>
+Cardiovasc Pharmacol. 1994 Jun;23(6):897-906.
+doi: 10.1097/00005344-199406000-00007.
+Vasoconstrictors and renal protection induced by beta 1-selective adrenoceptor antagonist bisoprolol
+Y Uehara  1 , S Takada, N Hirawa, Y Kawabata, N Ohshima, A Numabe, T Ishimitsu, A Goto, S Yagi, M Omata
+Affiliations
+
+    PMID: 7523781
+    DOI: 10.1097/00005344-199406000-00007
+
+Abstract
+
+We investigated the role of the vasoconstrictors endothelin-1 (ET-1) and thromboxane in renal protection by the beta 1-selective adrenoceptor antagonist, bisoprolol, in Dahl salt-sensitive rats (Dahl S) and salt-resistant rats (Dahl R). Six-week bisoprolol treatment (20 mg/kg chow) reduced systolic blood pressure (SBP) by 14% in Dahl S rats fed a high-salt (4% NaCl) diet. This BP reduction was accompanied by a decrease in aortic wall thickness. ET-1 and thromboxane released from renal cortex was significantly decreased by 17 and 30% with bisoprolol, respectively. Other prostaglandin synthesis was unaffected. Renal function such as proteinuria, N-acetyl-beta-D-glucosaminidase (NAG) excretion, and glomerular filtration rate (GFR) was not influenced by bisoprolol. Morphologic investigation showed that bisoprolol significantly improved glomerular sclerosis by 29% and attenuated arterial damage by 71%, although tubular injury was not affected. The more severe the glomerulosclerotic lesions, the greater the generation of thromboxane and ET. The arterial lesions were positively correlated to thromboxane generation. These data indicate that long-term bisoprolol treatment reduces vasoconstrictive ET-1 and thromboxane generation and that these alterations may be partly responsible for the amelioration of glomerular and arterial injury in Dahl S rats.
+==== >>>>
+Arzneimittelforschung. 1986 Feb;36(2):200-8.
+Pharmacodynamic profile of the selective beta 1-adrenoceptor antagonist bisoprolol
+J Harting, K H Becker, R Bergmann, R Bourgois, H J Enenkel, A Fuchs, R Jonas, H Lettenbaur, K O Minck, P Schelling, et al.
+
+    PMID: 2870720
+
+Abstract
+
+The pharmacodynamic activity of (+/-)-1-[4-(2-isopropoxyethoxymethyl)-phenoxy]-3-isopropylamino-2- propranol- hemifumarate (bisoprolol, EMD 33 512) has been investigated under in vitro and in vivo conditions. Bisoprolol was found to be an effective beta-adrenoceptor antagonist, the pA2 values determined against isoprenaline in guinea pig atria and tracheal muscle being 7.45 and 6.41, respectively. Thus, the selectivity ratio of bisoprolol in favour of beta 1-adrenoceptors is 11. Inhibition of the isoprenaline-induced tachycardia in guinea pigs indicated a long duration of action for bisoprolol. The compound was devoid of intrinsic sympathomimetic activity as shown by the lack of effect on heart rate in anaesthetized and reserpine pretreated rats. Studies in rabbits and guinea pigs revealed a local anaesthetic activity of bisoprolol at high concentrations. Bisoprolol protected the hearts of anaesthetized dogs against the sequelae of intermittent coronary occlusions, as judged by the reduction of the ST-segment elevation in the epicardial ECG. Bisoprolol exerted a blood pressure lowering effect in conscious renal hypertensive dogs after oral administration of 30 micrograms/kg. There was no indication of any action on the CNS in monkeys following an oral dose of up to 8 mg/kg.
+
+
+==== >>>>
+Eur J Heart Fail. 2008 May;10(5):446-53.
+doi: 10.1016/j.ejheart.2008.03.002. Epub 2008 Apr 8.
+Beneficial effects of bisoprolol on the survival of hypertensive diastolic heart failure model rats
+Mayu Nishio  1 , Yasushi Sakata, Toshiaki Mano, Tomohito Ohtani, Yasuharu Takeda, Takeshi Miwa, Masatsugu Hori, Tohru Masuyama, Takashi Kondo, Kazuhiro Yamamoto
+Affiliations
+
+    PMID: 18400557
+    DOI: 10.1016/j.ejheart.2008.03.002
+
+Free article
+Abstract
+
+Background: beta-blocker therapy is an established therapeutic strategy for systolic heart failure. However, its benefits in diastolic heart failure (DHF) are controversial.
+
+Aims: This study was designed to investigate the effects of bisoprolol on DHF.
+
+Methods and results: Dahl salt-sensitive rats fed on 8% NaCl diet from age 6 weeks, DHF model rats, were divided into three groups at age 13 weeks. One group was treated with bisoprolol 12.5 mg/kg/day (Low dose group, n=18), one group was treated with bisoprolol 250 mg/kg/day (High dose group, n=18), and there was also an untreated group (Untreated group, n=18). The survival rate was best in the High dose group. Left ventricular hypertrophy and the expression of proinflammatory cytokines in the myocardium were significantly attenuated in the High dose group, but not in the Low dose group, and oxidative stress was most suppressed in the High dose group. Measurement with electron spin resonance revealed that bisoprolol had a potent scavenging ability, and bisoprolol attenuated the down-regulation of peroxisome proliferation-activated receptor coactivator-1alpha, an important element in the mitochondrial reactive oxygen species detoxification system.
+
+Conclusion: beta-blocker administration, particularly at high dose, improved the survival rate of the DHF model, at least partly through the attenuation of inflammatory changes and oxidative stress.
+
+==== >>>>
+Heart Vessels. 1989;5(1):10-6.
+doi: 10.1007/BF02058353.
+Cardioprotective and antiarrhythmic effects of beta-blockers, propranolol, bisoprolol, and nipradilol in a canine model of regional ischemia
+T Ogawa  1 , N Hieda, S Sugiyama, T Ito, T Satake, T Ozawa
+Affiliations
+
+    PMID: 2573596
+    DOI: 10.1007/BF02058353
+
+Abstract
+
+Cardioprotective and antiarrhythmic effects of three beta-blockers with different pharmacological properties were investigated in 33 anesthetized dogs with a 2-h coronary occlusion. Dogs were divided into 4 groups and received physiological saline or one of the following drugs using a 10-min infusion at 25 min before the occlusion: saline or control (n = 12), propranolol (0.3 mg/kg, n = 7), bisoprolol (0.05 mg/kg, n = 7), and nipradilol (0.2 mg/kg, n = 7) groups. Blood pressure did not significantly differ among the 4 experimental groups throughout the entire observation period. On the contrary, the postocclusion change (fall) in heart rate from the preocclusion value was significantly (P less than 0.05-0.01) greater in the drug-treated groups than in the control group. Each of the beta-blockers effectively prevented the development of ventricular arrhythmias associated with the 2-h coronary occlusion. In terms of assessing a cardioprotective effect, the respiratory control index and rate of oxygen consumption in State III in mitochondria, and lysosomal enzyme activities (N-acetyl-beta-glucosaminidase or beta-glucuronidase) in myocardial tissues, all prepared from both ischemic and non-ischemic areas, were measured using the respective, established methods. The 2-h coronary occlusion induced a mitochondrial dysfunction and leakage of lysosomal enzymes in the control group, whereas each beta-blocker significantly (P less than 0.05-0.01) protected mitochondria against ischemia and prevented the lysosomal enzyme leakage. The results indicate that the antiarrhythmic effects of beta-blockers on ischemic myocardium are, at least in part, due to their cardioprotective action, and these effects appear to be unrelated to the ancillary pharmacological properties of these drugs.
+
+==== >>>> 
+Lens Eye Toxic Res. 1990;7(3-4):319-33.
+The melanin binding of bisoprolol and its toxicological relevance
+K Steiner  1 , K U Buhring, E Merck
+Affiliations
+
+    PMID: 1983104
+
+Abstract
+
+Unexpectedly high accumulations of bisoprolol were detected in iris and ciliary body and in retina+choroid of beagles after 4 weeks of conjunctival and oral administration. This phenomenon gave reason to assume that these high concentrations in the pigmented structures of the eye might be related to melanin binding. According to literature a series of drugs, e.g. chloroquine, rifampicine, chlorpromazine, benzodiazepines, and also beta-adrenoceptor antagonists exhibit melanin-binding properties. By means of autoradiography it could be demonstrated in pigmented mice that after iv and po administration 14C-labelled bisoprolol was selectively bound to the melanin-containing parts of the eye, irrespective of the mode of administration. Since the melanin-bound radioactivity could be extracted from the eye of mice and was eliminated with a t1/2 of approx. 7 days, the melanin binding of bisoprolol is considered to be reversible. Other beta-blocking agents like timolol and befunolol used already for a long time in the therapy of glaucoma have been reported to bind specifically to the melanin of the eye, and show comparable long half-lives, similar to bisoprolol. Usually, autoradiographic studies on drug distribution are performed with albino animals. This leads to a lack of information on melanin binding and may result in misinterpretation concerning the retention of substances, especially in pigmented compartments of the eye. Therefore, in autoradiographic studies of new investigational drugs during preclinical development, one should use both pigmented and albino animals.
+
+==== >>>>
+J Biomed Res. 2011 Jul;25(4):274-9.
+doi: 10.1016/S1674-8301(11)60037-7.
+Bisoprolol reverses down-regulation of potassium channel proteins in ventricular tissues of rabbits with heart failure
+Xi Li  1 , Tingzhong Wang, Ke Han, Xiaozhen Zhuo, Qun Lu, Aiqun Ma
+Affiliations
+
+    PMID: 23554701
+    PMCID: PMC3597065
+    DOI: 10.1016/S1674-8301(11)60037-7
+
+Free PMC article
+Abstract
+
+Remodeling of ion channels is an important mechanism of arrhythmia induced by heart failure (HF). We investigated the expression of potassium channel encoding genes in the ventricles of rabbit established by volume-overload operation followed with pressure-overload. The reversible effect of these changes with bisoprolol was also evaluated. The HF group exhibited left ventricular enlargement, systolic dysfunction, prolongation of 
+corrected QT interval (QTc), and increased plasma brain natriuretic peptide levels in the HF rabbits. Several potassium channel subunit encoding genes were consistently down-regulated in the HF rabbits. After bisoprolol treatment, heart function was improved significantly and QTc was shortened. Additionally, the mRNA expression of potassium channel subunit genes could be partially reversed. The down-regulated expression of potassium channel subunits Kv4.3, Kv1.4, KvLQT1, minK and Kir 2.1 may contribute to the prolongation of action potential duration in the heart of rabbits induced by volume combined with pressure overload HF. Bisoprolol could partially reverse these down-regulations and improve heart function.
+
+Keywords: animal models; down-regulation; heart failure; potassium channel.
+
+==== >>>>
+J Cardiovasc Pharmacol. 1986;8 Suppl 11:S41-5.
+doi: 10.1097/00005344-198511001-00007.
+Concentration kinetics of propranolol, bisoprolol, and atenolol in humans assessed with chemical detection and a subtype-selective beta-adrenoceptor assay
+A Wellstein, D Palm, G G Belz, G Leopold, K U Buhring, J Pabst
+
+    PMID: 2439797
+    DOI: 10.1097/00005344-198511001-00007
+
+Abstract
+
+After oral administration of single doses of 240 mg of (+/-)propranolol (prop), 200 mg of (+/-)-atenolol (aten), and 100 mg of (+/-)-bisoprolol (biso) to six healthy male volunteers, the plasma concentration time profile was investigated. To measure total plasma concentrations of the parent racemic mixture of drug administered, a HPLC-assay of drug concentrations was used. To detect active metabolites and stereoselective pharmacokinetics of the racemates, plasma concentrations were also monitored by means of a subtype-selective receptor assay, using a beta 1-adrenoceptor preparation from rat salivary glands. It is shown that relevant amounts of active metabolites do not become apparent for either of the three drugs investigated. Furthermore, for neither of them can significant stereoselective elimination characteristics be seen. Monophasic elimination characteristics with t1/2 of 4.8 +/- 0.42 (prop), 6.87 +/- 0.46 (aten), and 9.19 +/- 0.38 h (biso) become apparent. The maximum concentrations observed after administration of the doses mentioned previously were 220 +/- 71 (prop), 904 +/- 104 (aten), and 445 +/- 32 (biso) (ng/ml plasma). One can conclude from comparison with the results from receptor-binding studies that the 100 mg dose of biso is five- to seven-fold more potent than the 200 mg dose of aten, with respect to antagonism versus beta 1-adrenoceptor-mediated effects.
+
+==== >>>>
+Br J Pharmacol. 1988 Oct;95(2):361-70.
+doi: 10.1111/j.1476-5381.1988.tb11654.x.
+Bisoprolol improves perfusion of ischaemic myocardium in anaesthetized pigs
+L M Sassen  1 , M O den Boer, R J Rensen, P R Saxena, P D Verdouw
+Affiliations
+
+    PMID: 2976288
+    PMCID: PMC1854165
+    DOI: 10.1111/j.1476-5381.1988.tb11654.x
+
+Free PMC article
+Abstract
+
+1. The ability of the cardioselective beta-adrenoceptor antagonist bisoprolol ((+/-)-1-[4-(2-isopropoxyethoxymethyl)-phenoxy]-3-isopropyl-amino -2-propanol hemifumarate, EMD 33512) to suppress isoprenaline-induced increases in heart rate and maximal rate of rise in left ventricular pressure (LVdP/dtmax) was studied in 6 anaesthetized pigs given 4 cumulative doses (16, 64, 256 and 1024 micrograms kg-1). Bisoprolol was about 2 times more effective in suppressing isoprenaline-induced increases in LVdP/dtmax than those in heart rate. 2. In 8 animals which had a partial stenosis of the left anterior descending coronary artery (LADCA), the effects of 3 consecutive doses (50, 200 and 750 micrograms kg-1) of bisoprolol were studied on systemic haemodynamics, regional myocardial perfusion and function. The effects of the drug were compared with those obtained in a group of 9 animals with LADCA stenosis which did not receive any treatment. 3. The lowest dose of bisoprolol (50 micrograms kg-1) increased perfusion of the ischaemic myocardium (which had been reduced from 123 +/- 20 ml min-1 100 g-1 to 42 +/- 11 ml min-1 100 g-1) by 21 +/- 10 ml min-1 100 g-1 (P less than 0.05). In particular the subendocardial layers, which were most severely affected by the stenosis (a decrease from 128 +/- 19 ml min-1 100 g-1 to 20 +/- 6 ml min-1 100 g-1) benefited from the administration of the drug (an increase of 30 +/- 10 ml min-1 100 g-1). Perfusion of the subepicardium was not significantly affected. With the higher dose only a minor additional improvement in perfusion of the ischaemic myocardium was observed. 4. The negative chronotropic response is the most likely factor leading to the improvement in perfusion. 5. Myocardial wall thickening, which decreased from 41 +/- 2% to 9 +/- 4% (P less than 0.05) due to the hypoperfusion, did not improve after administration of the drug. This lack of improvement may possibly be due to the duration of ischaemia before and the magnitude of the flow deficit after bisoprolol administration. 6. Between 15 and 60 min of ischaemia, 5 of the 9 untreated animals had an episode of ventricular fibrillation compared with only 1 of the 8 animals treated with bisoprolol, in spite of an initially larger flow reduction in the treated animals. The more homogeneous flow distribution after bisoprolol might account for the lower incidence of arrhythmias in this group. 7. It was demonstrated that bisoprolol improves perfusion of ischaemic myocardium in anaesthetized pigs even at doses (50.pgkg-1) that only moderately antagonize isoprenaline-induced cardiostimulatory effects.
+
+==== >>>>
+J Cardiovasc Pharmacol. 1990 Mar;15(3):421-7.
+doi: 10.1097/00005344-199003000-00012.
+Beta-adrenoceptor-binding studies of the cardioselective beta blockers bisoprolol, H-I 42 BS, and HX-CH 44 BS to heart membranes and intact ventricular myocytes of adult rats: two beta 1-binding sites for bisoprolol
+A B Mauz  1 , H Pelzer
+Affiliations
+
+    PMID: 1691366
+    DOI: 10.1097/00005344-199003000-00012
+
+Abstract
+
+beta-Adrenoceptor binding of cardioselective drugs to intact ventricular myocytes was performed using [3H]CGP-12177, a hydrophilic non-beta 1/beta 2-selective antagonist radioligand. The beta-adrenoceptor density on the intact cardiomyocytes was about 2 x 10(5) molecules/cell. The beta 1-selective antagonists H-I 42 BS and HX-CH 44 BS competed for [3H]CGP-12177 binding sites on the ventricular myocytes in an essentially monophasic manner with Ki = 72.6 nM and Ki = 76.7 nM, respectively. This is in contrast to the results of binding data from heart membranes, where these beta 1-antagonists bind in a biphasic manner with about 30% of an additional low affinity site, presumably corresponding to the beta 2-adrenoceptor. The beta 1-selective antagonist bisoprolol revealed two binding sites at the heart membranes and at the myocytes as well with Ki(1) = 34.2 and 20.0 nM and Ki(2) = 3,014 and 918 nM, respectively. Our results suggest that viable adult rat ventricular myocytes may contain two beta 1-adrenoceptor binding sites exhibiting different affinities for bisoprolol, whereas beta 2-adrenergic receptors are completely absent.
+
+==== >>>>
+Arzneimittelforschung. 1986 Feb;36(2):197-200.
+Studies on the receptor profile of bisoprolol
+M Klockow, H E Greiner, A Haase, C J Schmitges, C Seyfried
+
+    PMID: 2870719
+
+Abstract
+
+The in vitro binding affinity of (+/-)-1-[4-(2-isopropoxyethoxymethyl)-phenoxy]-3-isopropylamino-2- propranol hemifumarate (bisoprolol, EMD 33 512) to beta 1-, beta 2-, alpha 1-, alpha 2-, D1-, D2-, 5-HT2- and muscarinic cholinergic receptors of rat was compared with that of atenolol, betaxolol and propranolol. Bisoprolol showed a high specific binding affinity to beta 1-adrenoceptors (heart) and a low specific binding affinity to beta 2-adrenoceptors (lung). The beta 1-selectivity of bisoprolol (beta 2/beta 1 = 34.7) proved to be higher than that of atenolol (8.7) and betaxolol (12.5). Propranolol (0.59) was non-selective as expected. Bisoprolol and atenolol exhibited no remarkable binding affinity to alpha 1-, alpha 2-, D1-, D2-, 5-HT2- and muscarinic cholinergic receptors at concentrations up to 1 X 10(-4) mol/l. For betaxolol binding affinities for alpha 2-, D2- and 5-HT2-receptors were found with IC50 values ranging between 2 X 10(-5) and 7 X 10(-5) mol/l. For propranolol binding affinities for alpha 1-, alpha 2-, D1-, D2- and 5-HT2-receptors were found with IC50 values ranging between 2 X 10(-6) and 9 X 10(-5) mol/l.
+
+==== >>>>
+Eur J Pharmacol. 1985 Aug 15;114(2):157-65.
+doi: 10.1016/0014-2999(85)90623-5.
+Selective labelling of beta 1-adrenoceptors in rabbit lung membranes by (-)[3H]bisoprolol
+X L Wang, M Brinkmann, O E Brodde
+
+    PMID: 2864272
+    DOI: 10.1016/0014-2999(85)90623-5
+
+Abstract
+
+The binding properties of a newly developed, highly selective beta 1-adrenoceptor antagonist radioligand, (-)[3H]bisoprolol (EMD 33512) were investigated in rabbit lung membranes containing a mixture of 80% beta 1-and 20% beta 2-adrenoceptors. The binding of (-)[3H]bisoprolol at 25 degrees C was saturable, of high affinity (KD = 4.7 +/- 0.6 nM, N = 4), rapid and readily reversible. The maximal number of (-)[3H]bisoprolol binding sites (244 +/- 31 fmol bound/mg protein, N = 4), however, was only 80% of the number of sites labelled by the non-selective beta-adrenoceptor radioligand (-)[125I]iodocyanopindolol (299 +/- 36 fmol bound/mg protein, N = 4). beta-Adrenoceptor antagonists (non-selective: propranolol, alprenolol; beta 1-selective: metoprolol, practolol, bisoprolol; beta 2-selective: ICI 118,551) inhibited (-)[3H]bisoprolol binding with monophasic displacement curves and pseudo-Hill coefficients of 1.0 indicating that in rabbit lung membranes (-)[3H]bisoprolol labels a homogeneous class of beta-adrenoceptors. Agonists inhibited binding with an order of potency: (-)-isoprenaline greater than (-)-noradrenaline = (-)-adrenaline, which is a typical one for beta 1-adrenoceptors. It is concluded that in rabbit lung membranes (-)[3H]bisoprolol selectively labels beta 1-adrenoceptors. (-)[3H]Bisoprolol therefore seems to be a suitable ligand for direct determination of the properties of beta 1-adrenoceptors in those tissues where both beta-adrenoceptor subtypes coexist.
+
+==== >>>>
+Naunyn Schmiedebergs Arch Pharmacol. 1985 Oct;331(1):27-39.
+doi: 10.1007/BF00498849.
+Direct labelling of myocardial beta 1-adrenoceptors. Comparison of binding affinity of 3H-(-)-bisoprolol with its blocking potency
+A J Kaumann, H Lemoine
+
+    PMID: 2866449
+    DOI: 10.1007/BF00498849
+
+Abstract
+
+A radioligand that selectively labels beta 1-adrenoceptors, 3H-(-)-bisoprolol (3H-BIS), is introduced. The binding properties of 3H-BIS to membrane particles of kitten heart are compared with the blocking properties of (-)-bisoprolol against stimulant effects of (-)-adrenaline and (-)-noradrenaline in heart preparations of kitten and guinea pig. 1. On kitten heart tissues (-)-bisoprolol antagonized the positive chronotropic and inotropic effects of catecholamines competitively. The effects of (-)-adrenaline were antagonized considerably less by (-)-bisoprolol than the corresponding effects of (-)-noradrenaline on sinoatrial pacemakers. The antagonism was nearly the same against both (-)-adrenaline and (-)-noradrenaline in left atria and papillary muscles. The data were analyzed with a model for 2-receptor subtypes by non-linear regression. Equilibrium dissociation constants KB (mol/l; -log KB = pKB) for a high-affinity beta 1-adrenoceptor of 8.8 and for a low-affinity beta 2-adrenoceptor of 7.0 were estimated in the three classes of tissues. In kitten sinoatrial pacemaker beta 1-adrenoceptors contribute 76% to the stimulus induced by (-)-adrenaline and 97% to the stimulus induced by (-)-noradrenaline. In ventricle and left atrium beta 1-adrenoceptors contribute 97-99% and 100% to the stimulus caused by (-)-adrenaline and (-)-noradrenaline, respectively. 2. Both 3H-BIS and unlabelled (-)-bisoprolol caused competitive blockade of the positive chronotropic effects of (-)-noradrenaline in guinea-pig right atria. pKB-values of 8.7 were estimated for both unlabelled and tritiated (-)-bisoprolol. The positive chronotropic effects of (-)-adrenaline were antagonized considerably less by (-)-bisoprolol than those of (-)-noradrenaline in guinea-pig atria. In the presence of low concentrations of beta 2-selective ICI 118,551, which did not antagonize beta 1-adrenoceptor mediated effects, (-)-bisoprolol antagonized positive chronotropic effects of (-)-adrenaline to the same extent as those of (-)-noradrenaline. The results are consistent with the concept of a significant role of sinoatrial beta 2-adrenoceptors of guinea pig for the effects of (-)-adrenaline but not for those of (-)-noradrenaline. 3. 3H-BIS associated and dissociated quickly with and from ventricular beta 1-adrenoceptors. A koff of 1.0 min-1 was estimated. An equilibrium dissociation constant pKL* of 8.2 for 3H-BIS was estimated from saturation binding.(ABSTRACT TRUNCATED AT 400 WORDS)
+
+==== >>>>
+Eur Heart J. 1987 Dec;8 Suppl M:71-9.
+doi: 10.1093/eurheartj/8.suppl_m.71.
+Changes in regional blood flows and myocardial performance after administration of bisoprolol to pigs
+P D Verdouw  1 , D J Duncker, I O Schmeets, L J von Woerkens, P R Saxena
+Affiliations
+
+    PMID: 2897301
+    DOI: 10.1093/eurheartj/8.suppl_m.71
+
+Abstract
+
+The cardioselective beta-adrenoceptor antagonist bisoprolol (4-1024 micrograms kg-1) caused in anaesthetized open-chest pigs a dose-dependent decrease in cardiac output, which was primarily due to a negative chronotropic action as heart rate decreased more than stroke volume. The decrease in stroke volume apparently resulted from a negative inotropic action of the drug, reflected by a decrease in max LV dP/dt in animals both with and without atrial pacing. A mild increase in systemic vascular resistance prevented serious hypotension. Pulmonary artery pressure was not affected, as pulmonary vascular resistance increased although the increase was statistically significant only with the highest concentration. The dose-related decreases in left ventricular blood flow were equally distributed over all myocardial layers and were the consequence of the reduced metabolic needs of the myocardium. Cerebral blood flow was well preserved but the changes in blood flow to some other organs and tissues (kidneys, stomach and skeletal muscle) paralleled that in cardiac output. The systemic haemodynamic effects of bisoprolol (16-1024 micrograms kg-1; i.v.) in conscious pigs resembled closely those observed in anaesthetised animals and were similar to those exerted by propanolol (25-300 micrograms kg-1; i.v.) in the same preparation. The effectiveness of bisoprolol and propranolol in antagonizing isoprenaline-induced changes in heart rate and max LV dP/dt were, however, markedly different. While propranolol inhibited both parameters to the same extent, bisoprolol was more effective in inhibiting max LV dP/dt than heart rate responses in conscious animals, probably due to beta 1-adrenoceptor selectivity.
+
+==== >>>>
+Herz. 2000 May;25(3):267-70.
+doi: 10.1007/s000590050018.
+Protective effect of bisoprolol on beta-1 adrenoceptor peptide-induced autoimmune myocardial damage in rabbits
+S Matsui  1 , M Persson, H M Fu, M Hayase, S Katsuda, K Teraoka, T Kurihara, M L Fu
+Affiliations
+
+    PMID: 10904850
+    DOI: 10.1007/s000590050018
+
+Abstract
+
+Idiopathic dilated cardiomyopathy is a severe disease of unknown etiology. Accumulating evidence suggests that agonist-like autoantibodies against the beta 1 adrenoceptor in the circulation of dilated cardiomyopathy may play an important role. The aim of this study was to evaluate the effects of the selective beta 1-adrenoceptor blocker, bisoprolol, on beta 1-adrenoceptor peptide induced autoimmune myocardial damage. In the animal model of autoimmune cardiomyopathy induced by active immunization of rabbits with beta 1-adrenoceptor peptide, bisoprolol was given at a dose of 3 mg/day throughout the study period. Our results showed high titer of anti-beta 1-adrenoceptor antibody in the immunized group throughout the study but not in the group receiving only bisoprolol. Cross-reactivity to beta 2 adrenoceptors was observed in some of the immunized rabbits, but disappeared almost entirely after 6 months. As compared to the beta 1-adrenoceptor peptide immunized group without bisoprolol treatment, bisoprolol treated beta 1-receptor peptide immunized group showed increase in the wall thickness and decreases in cavity dimension in anatomical measurements and only mild alterations in macro- and microscopic examinations. Thus, our study clearly demonstrated a beneficial effect of bisoprolol in rabbits who have developed autoimmune myocardial damage.
+
+
+==== >>>>
+J Cardiovasc Pharmacol. 1986;8 Suppl 11:S29-35.
+doi: 10.1097/00005344-198511001-00005.
+Bisoprolol (EMD 33512), a highly selective beta 1-adrenoceptor antagonist: in vitro and in vivo studies
+O E Brodde
+
+    PMID: 2439795
+    DOI: 10.1097/00005344-198511001-00005
+
+Abstract
+
+The properties of the newly developed selective beta 1-adrenoceptor antagonist bisoprolol (EMD 33152) were investigated by in vitro and in vivo studies. Binding studies with (-)-[125I] iodocyanopindolol (ICYP) revealed that the affinity of (+/-)-bisoprolol to beta 1-adrenoceptors was approximately 100 times higher than to beta 2-adrenoceptors. This high beta 1-adrenoceptor selectivity of bisoprolol could be confirmed in binding studies with the tritiated compound (-)[3H] bisoprolol, which labelled in rabbit lung membranes--a tissue known to contain 80% beta 1- and 20% beta 2-adrenoceptors--exclusively beta 1-adrenoceptors. In physiological studies, (+/-)-bisoprolol was found to be devoid of any intrinsic sympathomimetic activity (ISA), since it had no positive chronotropic effects on spontaneously beating right atria of reserpinized rats. On isolated electrically driven human right atria, (+/-)-bisoprolol was approximately 30 times more potent in antagonizing the beta 1-adrenoceptor-mediated positive inotropic effect of noradrenaline (pA2-value, 8.42) than the beta 2-adrenoceptor-mediated positive inotropic effect of procaterol (pA2-value, 6.99). To test the beta 1-adrenoceptor selectivity in vivo, the effects of bisoprolol administration (1 X 10 mg/day for 9 days) on lymphocyte beta 2-adrenoceptor density [assessed by (-)-ICYP binding] in healthy volunteers were compared with those of the nonselective beta-adrenoceptor antagonists propranolol (4 X 40 mg/day for 9 days) without ISA, and pindolol (2 X 5 mg/day for 9 days) with ISA.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+
+==== >>>>
+J Mol Cell Cardiol. 1994 Jul;26(7):841-8.
+doi: 10.1006/jmcc.1994.1101.
+Electrophysiological mechanisms of action of the levorotatory isomer of sotalol in a canine infarct model of inducible ventricular tachycardia: comparison with the beta-1 receptor antagonist bisoprolol
+I Aidonidis  1 , I Rizos, T Hilbel, W Kuebler, J Brachmann
+Affiliations
+
+    PMID: 7966352
+    DOI: 10.1006/jmcc.1994.1101
+
+Abstract
+
+To evaluate the antiarrhythmic efficacy of l-sotalol and bisoprolol on inducible ventricular arrhythmias, conscious dogs with 4- to 8-day-old myocardial infarction were studied by programmed electrical stimulation. Direct recordings from infarcted and adjacent normal subepicardium were made using a specially designed composite electrode. From 18 dogs developing sustained ventricular tachycardia (sVT) during control stimulation, l-sotalol (1.5 mg/kg i.v.) prevented reinducibility of sVT in 10 animals, while in seven other animals it significantly reduced the rate of tachycardia. Bisoprolol (0.2 mg/kg i.v.), tested in a separate group of 10 dogs susceptible to sVT, was mostly ineffective in preventing or slowing the tachycardia. Both agents significantly prolonged conduction time and refractoriness within the atrioventricular conduction system, and decreased heart rate. However, while l-sotalol lengthened ventricular refractoriness and QT interval, bisoprolol exerted only a minor effect on these parameters. Neither of the drugs affected conduction in normal and infarcted myocardium, as indicated by almost unchanged QRS complex width and duration of ventricular late potentials, respectively. The results indicate that acute beta-blockade is ineffective against sVT induced during the subacute stage of myocardial infarction. The antiarrhythmic efficacy of l-sotalol may predominantly be related to its prolonging effect on ventricular refractoriness, supporting the concept of pure class III action.
+
+
+==== >>>>
+Arch Int Pharmacodyn Ther. 1987 Nov;290(1):54-63.
+Systemic haemodynamic and beta-adrenoceptor antagonistic effects of bisoprolol in conscious pigs: a comparison with propranolol
+D J Duncker  1 , P R Saxena, P D Verdouw
+Affiliations
+
+    PMID: 2895611
+
+Abstract
+
+We studied the cardiovascular profile of the new cardioselective beta-adrenoceptor antagonist bisoprolol in the conscious pig and compared this profile with that of propranolol. Acute i.v. administration of bisoprolol (16-1024 micrograms.kg-1) did not affect mean arterial blood pressure but caused dose-related decreases in cardiac output (from 8 to 17%; p less than 0.05) due to a negative chronotropic action (heart rate reduction ranging from 9 to 21%; p less than 0.05) as stroke volume was unaffected. Max LVdP/dt decreased (ranging from 18 to 27%; p less than 0.05) while left ventricular end-diastolic blood pressure (from 8.6 +/- 0.6 to 15 +/- 0.2 mmHg; p less than 0.05) and systemic vascular resistance (from 8 to 18%; p less than 0.05) increased. Propranolol in a dose-range from 25-300 micrograms.kg-1 produced strikingly similar changes. Bisoprolol was more effective in antagonizing the isoproterenol-induced responses of max LVdP/dt than those on either heart rate or diastolic arterial blood pressure, whereas propranolol caused equi-effective inhibitions of the responses of heart rate and max LVdP/dt. However, with propranolol also the inhibition of the diastolic arterial blood pressure was less marked than for the other parameters. Propranolol proved to be the more potent beta-adrenoceptor antagonist, as the isoproterenol dose ratios of all 3 parameters during beta-adrenoceptors blockade with propranolol exceeded those obtained with bisoprolol.
