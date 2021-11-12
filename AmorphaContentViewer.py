@@ -106,29 +106,6 @@ def Del__ls():
     Refresh__selected()
    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def Get__citation(artinx):
 
     art_inx = artinx
